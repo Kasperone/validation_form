@@ -4,7 +4,7 @@ Sign in validation form.
 
 ## Description
 
-Sign in validation form using Javascript, created during the course by Mateusz Maj.
+Sign in validation form using JavaScript, created during the course by Mateusz Maj.
 
 - link to the course [Mateusz Maj Course](https://www.udemy.com/course/10-projektow-w-czystym-javascript-cz-1/) (the course is in Polish)
 
